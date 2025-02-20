@@ -1,0 +1,10 @@
+apple banana cherry dog elephant
+apple cat banana dog elephant
+cherry banana dog elephant apple
+dog banana elephant cat apple
+banana cherry dog elephant apple
+cherry cat elephant dog banana
+elephant dog banana cat cherry
+apple banana dog cat elephant
+elephant cherry banana dog cat
+dog cat apple banana elephant
